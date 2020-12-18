@@ -51,8 +51,24 @@ Each of the three parts is mainly led by one member of the group. At each stage,
 - Neural network to improve civil war onset prediction: Tiannan Sha
 - Isolating the effect of GDP on civil war onset: Chenyang Cao
 - Impacts of civil war on the economy: Alessandro Fornaroli
-Questions for TAs (optional)
-There is a question about the data matching between the treatment group and control group. In homework 2, we used the score which was obtained from logistic regression. However, what should we do to get this score in our case?
+
 
 ### Questions for TAs (optional)
 We have a question about the data matching between the treatment group and control group. In homework 2, we use the score which is obtained from logistic regression.However, what should we do to get this score in our cases?
+
+
+
+### Contributions
+
+The same as our organization within the team, each of the team member responsible for their own topic and write the data story of each question:
+
+- Neural network to improve civil war onset prediction: Tiannan Sha
+- Isolating the effect of GDP on civil war onset: Chenyang Cao
+- Impacts of civil war on the economy: Alessandro Fornaroli
+
+
+
+### Data story link
+
+We choose to deploy our data story by using GitHub, and one can access our work by this link:  https://tiannansha.github.io/ada-data-story/
+
