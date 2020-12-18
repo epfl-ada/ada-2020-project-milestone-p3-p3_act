@@ -60,11 +60,11 @@ We have a question about the data matching between the treatment group and contr
 
 ### Contributions
 
-The same as our organization within the team, each of the team member responsible for their own topic and write the data story of each question:
+The same as our organization within the team, each of the team member is responsible for their own topic and write the data story of it:
 
-- Neural network to improve civil war onset prediction: Tiannan Sha
-- Isolating the effect of GDP on civil war onset: Chenyang Cao
-- Impacts of civil war on the economy: Alessandro Fornaroli
+- Neural network to improve civil war onset prediction: Tiannan Sha - Part_1_Neural_Network_Model
+- Isolating the effect of GDP on civil war onset: Chenyang Cao - Part_2_Causal_Inference_of_GDP_Growth
+- Impacts of civil war on the economy: Alessandro Fornaroli - Part_3_Econometric Analysis
 
 
 
