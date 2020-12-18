@@ -13,7 +13,7 @@ Besides the accuracy, the interpretability is also what we want our model to hav
 - analyze the impact that a civil war has on a national economy, specifically on GDP and GDP growth. Considering only countries that experienced a civil war, we use panel data regression models to understand how GDP and growth change as a consequence of the civil war.
 
 ### Research Questions
-- Can we create a model with even greater predictive power of civil war onset?
+- Can we create models with even greater predictive power of civil war onset?
 - What is the effect of GDP/GDP growth on Civil War onset?
 - What is the impact of a civil war on the economy of a country, specifically GDP and growth?
 
@@ -62,7 +62,7 @@ We have a question about the data matching between the treatment group and contr
 
 The same as our organization within the team, each of the team member is responsible for their own topic and write the data story of it:
 
-- Neural network to improve civil war onset prediction: Tiannan Sha - Part_1_Neural_Network_Model
+- Implementing Neural Networks, SMOTE combined with Random Forest, SVM to try to improve civil war onset prediction: Tiannan Sha - Part_1_Neural_Network_Model
 - Isolating the effect of GDP on civil war onset: Chenyang Cao - Part_2_Causal_Inference_of_GDP_Growth
 - Impacts of civil war on the economy: Alessandro Fornaroli - Part_3_Econometric Analysis
 
